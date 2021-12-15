@@ -1,317 +1,280 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name_mobile" translatable="false">Fermata</string>
-    <string name="app_name_auto" translatable="false">Fermata Auto</string>
-    <string name="media_service_name" translatable="false">Fermata</string>
-    <string name="engine_mp_name" translatable="false">MediaPlayer</string>
-    <string name="engine_exo_name" translatable="false">ExoPlayer</string>
-    <string name="engine_vlc_name" translatable="false">VLC</string>
-
-    <string name="module_name_gdrive" translatable="false">Google Drive</string>
-    <string name="module_name_sftp" translatable="false">SFTP</string>
-    <string name="module_name_smb" translatable="false">SMB</string>
-    <string name="module_name_web" translatable="false">Web</string>
-    <string name="module_name_tv" translatable="false">TV</string>
-
-    <string name="addons">Addons</string>
+    <string name="about">Hakkında</string>
+    <string name="add_folder">Klasör ekle</string>
     <string name="addon_name_tv">TV</string>
-    <string name="addon_name_web_browser">Web browser</string>
-    <string name="addon_name_youtube" translatable="false">Youtube</string>
-
-    <string name="interface_prefs">Interface</string>
-    <string name="interface_prefs_aa">Android Auto</string>
-    <string name="playback_settings">Playback settings</string>
-    <string name="playback_control">Playback control</string>
-    <string name="engine_prefs">Media engine</string>
-
-    <string name="theme">Application theme</string>
-    <string name="theme_sub">Current theme: %1$s</string>
-    <string name="theme_light">Light</string>
-    <string name="theme_dark">Dark</string>
-    <string name="theme_day_night">Day/Night</string>
-    <string name="theme_black">Black</string>
-    <string name="theme_star_wars">Star Wars</string>
-
-    <string name="nav_bar_pos">Navigation bar position</string>
-    <string name="nav_bar_pos_sub">Current position: %1$s</string>
-    <string name="nav_bar_pos_bottom">Bottom</string>
-    <string name="nav_bar_pos_left">Left</string>
-    <string name="nav_bar_pos_right">Right</string>
-
-    <string name="show_track_icons">Show track icons</string>
-    <string name="lang">Language</string>
-    <string name="lang_en" translatable="false">English</string>
-    <string name="lang_it" translatable="false">Italiano</string>
-    <string name="lang_ru" translatable="false">Русский</string>
-    <string name="hide_bars">Hide bars</string>
-    <string name="hide_bars_sub">Hide top and bottom bars when the control panel appears</string>
-    <string name="show_pg_up_down">Show page up/down buttons</string>
-    <string name="fullscreen_mode">Fullscreen mode</string>
-    <string name="nav_bar_size">Navigation bar size</string>
-    <string name="tool_bar_size">Tool bar size</string>
-    <string name="control_panel_size">Control panel size</string>
-    <string name="text_icon_size">Text and icons size</string>
-
-    <string name="play_next_on_completion">Play next on completion</string>
-
-    <string name="rw_ff_click">RW/FF - click</string>
-    <string name="rw_ff_long_click">RW/FF - long click</string>
-    <string name="prev_next_long_click">Prev/Next - long click</string>
-    <string name="play_pause_stop">Stop on Play/Pause long click</string>
-
-    <string name="time">Time</string>
-    <string name="time_unit">Time unit</string>
-    <string name="time_unit_sub">Current value: %1$s</string>
-    <string name="time_unit_second">Second</string>
-    <string name="time_unit_minute">Minute</string>
-    <string name="time_unit_percent">Percent</string>
-
-    <string name="video_control">Video control</string>
-    <string name="video_control_start_delay">Show on start</string>
-    <string name="video_control_touch_delay">Show on touch</string>
-    <string name="video_control_seek_delay">Show on seek</string>
-    <string name="video_aa_show_status">Show status bar in Android Auto</string>
-
-    <string name="enable_exoplayer">Enable ExoPlayer</string>
-    <string name="enable_vlcplayer">Enable VLC</string>
-    <string name="preferred_audio_engine">Preferred audio engine</string>
-    <string name="preferred_video_engine">Preferred video engine</string>
-    <string name="engine_installed">Media engine installed: %1$s</string>
-    <string name="engine_uninstalled">Media engine uninstalled: %1$s</string>
-
-    <string name="preferred_media_scanner">Preferred media scanner</string>
-    <string name="preferred_media_scanner_default">Default</string>
-    <string name="preferred_media_scanner_system">System</string>
-
-    <string name="voice_search">Voice search</string>
-    <string name="voice_control">Voice control</string>
-    <string name="voice_control_fb">Floating button</string>
-    <string name="voice_control_menu">\'Menu\' or \'M\' button</string>
-    <string name="voice_control_next">\'Skip to next\' media button</string>
-    <string name="voice_control_prev">\'Skip to previous\' media button</string>
-    <string name="voice_control_sub_long">Activate voice control on long press</string>
-    <string name="voice_control_sub_double">Activate voice control on double click</string>
-    <string name="voice_control_subst">Word substitution</string>
-    <string name="voice_control_subst_sub">Replace a word with an another word or a phrase</string>
-    <string name="voice_control_subst_hint" translatable="false">on: play\noff: pause\nmerde: find in browser nearest bar</string>
-
-    <string name="module_installation">Module installation: %1$s</string>
-    <string name="install_pending">Installation pending: %1$s</string>
-    <string name="downloading">Downloading %1$s</string>
-    <string name="installing">Installing %1$s</string>
-
-    <string name="speed">Speed</string>
-    <string name="audio_effects">Audio effects</string>
-    <string name="equalier">Equalizer</string>
-    <string name="preset_name">Preset name</string>
-    <string name="virtualizer">Virtualizer</string>
-    <string name="auto">Auto</string>
+    <string name="addon_name_web_browser">Web tarayıcı</string>
+    <string name="addon_name_youtube">Youtube</string>
+    <string name="addons">Eklentiler</string>
+    <string name="album">Albüm</string>
+    <string name="app_name_auto">Fermata Auto</string>
+    <string name="app_name_mobile">Fermata</string>
+    <string name="apply_to">Uygula</string>
+    <string name="artist">Sanatçı</string>
+    <string name="audio">Ses</string>
+    <string name="audio_delay">Ses gecikmesi</string>
+    <string name="audio_effects">Ses efekti</string>
+    <string name="auto">Otomatik</string>
+    <string name="bass_boost">Bass güçlendirme</string>
     <string name="binaural">Binaural</string>
-    <string name="transaural">Transaural</string>
-    <string name="bass_boost">Bass boost</string>
-    <string name="vol_boost">Volume boost</string>
-    <string name="strength">Strength</string>
-    <string name="apply_to">Apply to</string>
-
-    <string name="video">Video</string>
-    <string name="video_settings">Video settings</string>
-    <string name="video_scaling">Video scaling</string>
-    <string name="video_scaling_best">Best fit</string>
-    <string name="video_scaling_fill">Fill screen</string>
-    <string name="video_scaling_orig">Original size</string>
-    <string name="video_scaling_4" translatable="false">4x3</string>
-    <string name="video_scaling_16" translatable="false">16x9</string>
-
-    <string name="audio">Audio</string>
-    <string name="audio_delay">Audio delay</string>
-    <string name="preferred_audio_lang">Preferred audio stream languages</string>
-    <string name="preferred_audio_key">Prefer audio stream with keywords</string>
-    <string name="select_audio_stream">Select audio stream</string>
-
-    <string name="subtitles">Subtitles</string>
-    <string name="subtitle_delay">Subtitles delay</string>
-    <string name="display_subtitles">Display subtitles</string>
-    <string name="preferred_sub_lang">Preferred subtitles languages</string>
-    <string name="preferred_sub_key">Prefer subtitles with keywords</string>
-    <string name="select_subtitles">Select subtitles</string>
-
-    <string name="string_format" translatable="false">%1$s</string>
-    <string name="eq_hz">%1$s Hz</string>
-    <string name="eq_khz">%1$s kHz</string>
-
-    <string name="current_track">Current track</string>
-    <string name="current_folder">Current folder</string>
-
-    <string name="folders">Folders</string>
-    <string name="favorites">Favorites</string>
-    <string name="playlists">Playlists</string>
-    <string name="search">Search</string>
-    <string name="filter">Filter</string>
-    <string name="settings">Settings</string>
-    <string name="menu">Menu</string>
-    <string name="exit">Exit</string>
-    <string name="cancel">Cancel</string>
-    <string name="got_to_current">Current track</string>
-
-    <string name="view">View</string>
-    <string name="title">Title</string>
-    <string name="subtitle">Subtitle</string>
-    <string name="seq_num">Sequence number</string>
-    <string name="track_name">Name</string>
-    <string name="file_name">File name</string>
-    <string name="date">Date</string>
-    <string name="random">Random</string>
-    <string name="descending">Descending</string>
-    <string name="album">Album</string>
-    <string name="artist">Artist</string>
-    <string name="duration">Duration</string>
-
-    <string name="sort_by">Sort by</string>
-    <string name="do_not_sort">Do not sort</string>
-
-    <string name="play">Play</string>
-    <string name="pause">Pause</string>
-    <string name="stop">Stop</string>
-    <string name="prev">Previous</string>
-    <string name="next">Next</string>
-    <string name="rewind">Rewind</string>
-    <string name="fast_forward">Fast forward</string>
-    <string name="repeat">Repeat</string>
-    <string name="repeat_disable">Do not repeat</string>
-    <string name="shuffle">Shuffle</string>
-    <string name="shuffle_disable">Do not shuffle</string>
-    <string name="programme_guide">Programme guide</string>
-    <string name="favorites_add">Add to favorites</string>
-    <string name="favorites_remove">Remove from favorites</string>
-    <string name="mark_watched">Mark as watched</string>
-    <string name="mark_unwatched">Mark as unwatched</string>
-    <string name="preferred_media_engine">Preferred media engine</string>
-    <string name="by_default">Default</string>
-
-    <string name="playlist_add">Add to playlist</string>
-    <string name="playlist_remove_item">Remove from playlist</string>
-    <string name="playlist_create">Create playlist</string>
-    <string name="playlist_remove">Remove playlist</string>
-    <string name="playlist_name">Playlist name</string>
-
-    <string name="bookmarks">Bookmarks</string>
-    <string name="create_bookmark">Create bookmark</string>
-    <string name="remove_bookmark">Remove bookmark</string>
-    <string name="remove_all_bookmarks">Remove all bookmarks</string>
-    <string name="bookmark_name">Name</string>
-    <string name="bookmark_time">Time</string>
-
-    <string name="folder_subtitle">Files: %1$d. Folders: %2$d.</string>
-    <string name="browsable_subtitle">Tracks: %1$d.</string>
-    <string name="add_folder">Add folder</string>
-    <string name="remove_folder">Remove folder</string>
-    <string name="select">Select</string>
-    <string name="select_all">Select all</string>
-    <string name="unselect_all">Unselect all</string>
-    <string name="refresh">Refresh</string>
-    <string name="rescan">Rescan</string>
-    <string name="edit">Edit</string>
-    <string name="delete">Delete</string>
-    <string name="delete_file_title">Delete file</string>
-    <string name="delete_file_question">Are you sure you want to delete file?</string>
-    <string name="delete_file_failed">Failed to delete file %1$s</string>
-    <string name="loading">Loading…</string>
-    <string name="press_back_again">Press back button again to exit.</string>
-    <string name="press_x_again">Press X button again to exit.</string>
-    <string name="please_restart_app">Please restart the application.</string>
-    <string name="use_phone_to_grant_perm">Please use you phone to grant required permissions.</string>
-
-    <string name="vfs_content">Content</string>
-    <string name="vfs_file_system">File system</string>
-    <string name="vfs_gdrive">Google drive</string>
-    <string name="vfs_sftp" translatable="false">SFTP</string>
-    <string name="vfs_smb" translatable="false">LAN (SMB)</string>
-    <string name="m3u_playlist" translatable="false">M3U playlist</string>
-    <string name="m3u_playlist_name">Name</string>
-    <string name="m3u_playlist_location">Location</string>
-    <string name="m3u_playlist_location_hint">File or http(s) URL</string>
-    <string name="m3u_playlist_agent" translatable="false">User-Agent</string>
-    <string name="m3u_playlist_video">Video playlist</string>
-
-    <string name="eq_manual">Manual</string>
-    <string name="eq_normal">Normal</string>
-    <string name="eq_classical">Classical</string>
-    <string name="eq_dance">Dance</string>
-    <string name="eq_flat">Flat</string>
-    <string name="eq_folk">Folk</string>
-    <string name="eq_heavy_metal">Heavy Metal</string>
+    <string name="bookmark_name">Adı</string>
+    <string name="bookmark_time">Zaman</string>
+    <string name="bookmarks">Yer işaretleri</string>
+    <string name="browsable_subtitle">Parça: %1$d.</string>
+    <string name="by_default">Varsayılan</string>
+    <string name="cancel">İptal</string>
+    <string name="change_brightness">Video oynatılırken parlaklığı değiştirin</string>
+    <string name="change_brightness_sub">Parlaklık iki parmakla kaydırma ile değiştirilebilir</string>
+    <string name="check_updates">Başlangıçta güncelleme kontrol et</string>
+    <string name="clock_pos">Saat konumu</string>
+    <string name="clock_pos_center">Orta</string>
+    <string name="clock_pos_left">Sol</string>
+    <string name="clock_pos_none">Yok</string>
+    <string name="clock_pos_right">Sağ</string>
+    <string name="control_panel_size">Kontrol paneli boyutu</string>
+    <string name="create_bookmark">Yer imi oluştur</string>
+    <string name="current_folder">Geçerli klasör</string>
+    <string name="current_track">Geçerli parça</string>
+    <string name="date">Tarih</string>
+    <string name="delete">Sil</string>
+    <string name="delete_file_failed">%1$s dosyası silinemedi</string>
+    <string name="delete_file_question">Dosyayı silinsin mi?</string>
+    <string name="delete_file_title">Dosya sil</string>
+    <string name="descending">Azalan</string>
+    <string name="display_subtitles">Altyazıları görüntüle</string>
+    <string name="do_not_sort">Sıralı değil</string>
+    <string name="domain">Alan adı</string>
+    <string name="donate">Bağış</string>
+    <string name="donate_text">Uygulamayı beğendiyseniz, lütfen bana bir kahve almayı düşünün.</string>
+    <string name="downloading">%1$s indiriliyor</string>
+    <string name="duration">Süre</string>
+    <string name="edit">Düzenle</string>
+    <string name="enable">Etkinleştir</string>
+    <string name="enable_exoplayer">ExoPlayer etkinleştir</string>
+    <string name="enable_vlcplayer">VLC etkinleştir</string>
+    <string name="engine_exo_name">ExoPlayer</string>
+    <string name="engine_installed">Medya motoru yüklendi: %1$s</string>
+    <string name="engine_mp_name">MediaPlayer</string>
+    <string name="engine_prefs">Medya motoru</string>
+    <string name="engine_uninstalled">Medya motoru kaldırıldı: %1$s</string>
+    <string name="engine_vlc_name">VLC</string>
+    <string name="eq_classical">Klasik</string>
+    <string name="eq_dance">Dans</string>
+    <string name="eq_flat">Düz</string>
+    <string name="eq_folk">Halk</string>
+    <string name="eq_heavy_metal">Ağır Metal</string>
     <string name="eq_hip_hop">Hip Hop</string>
-    <string name="eq_jazz">Jazz</string>
+    <string name="eq_hz">%1$s Hz</string>
+    <string name="eq_jazz">Caz</string>
+    <string name="eq_khz">%1$s kHz</string>
+    <string name="eq_manual">Elle</string>
+    <string name="eq_normal">Normal</string>
     <string name="eq_pop">Pop</string>
     <string name="eq_rock">Rock</string>
-
+    <string name="equalier">Ekolayzer</string>
+    <string name="err_failed_add_folder">Klasör eklenemiyor: %1$s</string>
+    <string name="err_failed_install_module">Modül yüklenemiyor: %1$s</string>
+    <string name="err_failed_open_url">URL açılamıyor: %1$s</string>
+    <string name="err_failed_to_download">İndirilemiyor: %1$s</string>
+    <string name="err_failed_to_play">Oynatılamıyor: %s</string>
+    <string name="err_failed_to_play_cause">Oynatılamıyor %1$s: %2$s</string>
+    <string name="err_invalid_playlist_name">Geçersiz oynatma listesi adı: %1$s</string>
+    <string name="err_no_audio_record_perm">Ses kayıt izni verilmedi</string>
+    <string name="err_playlist_exists">Oynatma listesi zaten var: %1$s</string>
+    <string name="err_unsupported_source_type">Desteklenmeyen kaynak türü: %s</string>
+    <string name="exit">Çıkış</string>
+    <string name="export_prefs">Tercihleri dışa dosyaya aktar</string>
+    <string name="export_prefs_failed">Tercihler dışa aktarılamadı: %1$s</string>
+    <string name="export_prefs_ok">Tercihler dosyaya kaydedildi %1$s.</string>
+    <string name="export_prefs_sub">Ayarları, klasörleri, çalma listelerini vb. dışa dosyaya aktarın</string>
+    <string name="fast_forward">İleri sar</string>
+    <string name="favorites">Favoriler</string>
+    <string name="favorites_add">Favorilere ekle</string>
+    <string name="favorites_remove">Favorilerden kaldır</string>
+    <string name="file_name">Dosya adı</string>
+    <string name="filter">Filtre</string>
+    <string name="folder_subtitle">Dosya: %1$d. Klasör: %2$d.</string>
+    <string name="folders">Klasörler</string>
+    <string name="fullscreen_mode">Tam ekran modu</string>
+    <string name="got_to_current">Geçerli parça</string>
+    <string name="hide_bars">Çubukları gizle</string>
+    <string name="hide_bars_sub">Kontrol paneli göründüğünde üst ve alt çubukları gizleyin</string>
     <string name="host">Host</string>
-    <string name="port">Port</string>
-    <string name="path">Path</string>
-    <string name="share_name">Share name</string>
-    <string name="domain">Domain</string>
-    <string name="username">Username</string>
-    <string name="password">Password</string>
-    <string name="private_key">Private key</string>
-    <string name="private_key_pass">Private key password</string>
-
-    <string name="donate">Coffee for developer</string>
-    <string name="donate_text">If you like the application, please consider buying me a coffee.</string>
-    <string name="use_phone_for_donation">Please use your phone to buy a coffee.</string>
-
-    <string name="timer">Timer</string>
     <string name="hours">Hours</string>
-    <string name="minutes">Minutes</string>
-
-    <string name="enable">Enable</string>
-    <string name="move_left">Move left</string>
-    <string name="move_right">Move right</string>
-    <string name="move_up">Move up</string>
-    <string name="move_down">Move down</string>
-
-    <string name="play_video_landscape">Playing video in landscape mode</string>
-    <string name="clock_pos">Clock position</string>
-    <string name="clock_pos_none">None</string>
-    <string name="clock_pos_left">Left</string>
-    <string name="clock_pos_right">Right</string>
-    <string name="clock_pos_center">Center</string>
-    <string name="change_brightness">Change brightness while playing video</string>
-    <string name="video_brightness">Video brightness</string>
-    <string name="change_brightness_sub">The brightness can also be changed with two finger scroll</string>
-    <string name="watched_threshold">Watched threshold</string>
-    <string name="watched_threshold_sub">Marked video as watched, if more than this number of percentages has been watched</string>
-
-    <string name="other">Other</string>
-    <string name="check_updates">Check for updates on startup</string>
-    <string name="update">Update</string>
-    <string name="update_question">New version %1$s is available.\nWould you like to update the app?</string>
-    <string name="export_prefs">Export preferences to file</string>
-    <string name="export_prefs_sub">Export settings, folders, playlists etc. to file</string>
-    <string name="export_prefs_ok">Preferences have been saved in file %1$s.</string>
-    <string name="export_prefs_failed">Failed to export preferences: %1$s</string>
-    <string name="import_prefs">Import preferences from file</string>
-    <string name="import_prefs_sub">Import, previously exported, preferences from file</string>
-    <string name="import_prefs_ok">Preferences have been successfully imported.\nPlease, restart the application.</string>
-    <string name="import_prefs_failed">Failed to import preferences: %1$s</string>
-    <string name="prefs_not_found">No preferences found</string>
-
-    <string name="about">About</string>
-    <string name="about_html"><![CDATA[<H1 align="center">Fermata Media Player</H1>
+    <string name="icon_content_description">İletişim Simgesi</string>
+    <string name="import_prefs">Tercihleri dosyadan içe aktar</string>
+    <string name="import_prefs_failed">Tercihler içe aktarılamadı: %1$s</string>
+    <string name="import_prefs_sub">Daha önce dışa aktarılan tercihleri dosyadan içe aktarın</string>
+    <string name="install_pending">Kurulum bekleniyor: %1$s</string>
+    <string name="installing">Yükleniyor %1$s</string>
+    <string name="interface_prefs">Arayüz</string>
+    <string name="interface_prefs_aa">Android Auto</string>
+    <string name="item_view_role_description">Sekme</string>
+    <string name="lang_en">İngilizce</string>
+    <string name="lang_it">Türkçe</string>
+    <string name="lang_ru">Rusça</string>
+    <string name="loading">Yükleniyor…</string>
+    <string name="m3u_playlist">M3U oynatma listesi</string>
+    <string name="m3u_playlist_agent">User-Agent</string>
+    <string name="m3u_playlist_location">Konum</string>
+    <string name="m3u_playlist_location_hint">"Dosya veya Http URL'si"</string>
+    <string name="m3u_playlist_name">Adı</string>
+    <string name="m3u_playlist_video">Video oynatma listesi</string>
+    <string name="mark_unwatched">İzlenmedi olarak işaretle</string>
+    <string name="mark_watched">İzlendi olarak işaretle</string>
+    <string name="media_service_name">Fermata</string>
+    <string name="menu">Menü</string>
+    <string name="minutes">Dakika</string>
+    <string name="module_installation">Modül kurulumu: %1$s</string>
+    <string name="module_name_gdrive">Google Drive</string>
+    <string name="module_name_sftp">SFTP</string>
+    <string name="module_name_smb">SMB</string>
+    <string name="module_name_tv">TV</string>
+    <string name="module_name_web">Web</string>
+    <string name="move_down">Aşağı taşı</string>
+    <string name="move_left">Sola taşı</string>
+    <string name="move_right">Sağa taşı</string>
+    <string name="move_up">Yukarı taşı</string>
+    <string name="nav_bar_pos">Gezinme çubuğu konumu</string>
+    <string name="nav_bar_pos_bottom">Altta</string>
+    <string name="nav_bar_pos_left">Solda</string>
+    <string name="nav_bar_pos_right">Sağda</string>
+    <string name="nav_bar_pos_sub">Mevcut konum: %1$s</string>
+    <string name="nav_bar_size">Gezinme çubuğu boyutu</string>
+    <string name="next">İleri</string>
+    <string name="other">Diğer</string>
+    <string name="password">Şifre</string>
+    <string name="path">Yol</string>
+    <string name="pause">Duraklat</string>
+    <string name="play">Oynat</string>
+    <string name="play_next_on_completion">Sonrakini oynat</string>
+    <string name="play_pause_stop">Oynat/Duraklat uzun dokunuş durdur</string>
+    <string name="play_video_landscape">Videoyu yatay modda oynat</string>
+    <string name="playback_control">Oynatma kontrolü</string>
+    <string name="playback_settings">Oynatma ayarları</string>
+    <string name="playlist_add">Oynatma listesine ekle</string>
+    <string name="playlist_create">Oynatma listesi oluştur</string>
+    <string name="playlist_name">Oynatma listesi adı</string>
+    <string name="playlist_remove">Oynatma listesini kaldır</string>
+    <string name="playlist_remove_item">Oynatma listesinden kaldır</string>
+    <string name="playlists">Oynatma listeleri</string>
+    <string name="please_restart_app">Lütfen uygulamayı yeniden başlatın</string>
+    <string name="port">Port</string>
+    <string name="preferred_audio_engine">Tercih edilen ses motoru</string>
+    <string name="preferred_audio_key">Anahtar kelimelerle ses akışını tercih edin</string>
+    <string name="preferred_audio_lang">Tercih edilen ses akışı dilleri</string>
+    <string name="preferred_media_engine">Tercih edilen medya motoru</string>
+    <string name="preferred_media_scanner">Tercih edilen medya tarayıcı</string>
+    <string name="preferred_media_scanner_default">Varsayılan</string>
+    <string name="preferred_media_scanner_system">Sistem</string>
+    <string name="preferred_sub_key">Anahtar kelimelerle altyazıları tercih edin</string>
+    <string name="preferred_sub_lang">Tercih edilen altyazı dilleri</string>
+    <string name="preferred_video_engine">Tercih edilen video motoru</string>
+    <string name="prefs_not_found">Tercih bulunamadı</string>
+    <string name="preset_name">Ön ayar adı</string>
+    <string name="press_back_again">Çıkmak için geri düğmesine tekrar basın.</string>
+    <string name="press_x_again">Çıkmak için X düğmesine tekrar basın.</string>
+    <string name="prev">Önceli</string>
+    <string name="prev_next_long_click">Önceki/Sonraki - Uzun dokunma</string>
+    <string name="private_key">Özel anahtar</string>
+    <string name="private_key_pass">Özel anahtar şifresi</string>
+    <string name="programme_guide">Program rehberi</string>
+    <string name="random">Karışık</string>
+    <string name="refresh">Yenile</string>
+    <string name="remove_all_bookmarks">Tüm yer imlerini kaldır</string>
+    <string name="remove_bookmark">Yerimini kaldır</string>
+    <string name="remove_folder">Klasörü kaldır</string>
+    <string name="repeat">Tekrarla</string>
+    <string name="repeat_disable">Tekrarlama</string>
+    <string name="rescan">Yeniden tara</string>
+    <string name="rewind">Geri sar</string>
+    <string name="rw_ff_click">RW/FF - Tek dokunma</string>
+    <string name="rw_ff_long_click">RW/FF - Uzun dokunma</string>
+    <string name="search">Ara</string>
+    <string name="select">Seç</string>
+    <string name="select_all">Tümünü seç</string>
+    <string name="select_audio_stream">Ses akışını seç</string>
+    <string name="select_subtitles">Altyazı seçin</string>
+    <string name="seq_num">Sıra numarası</string>
+    <string name="settings">Ayarlar</string>
+    <string name="share_name">Adı paylaş</string>
+    <string name="show_pg_up_down">Sayfa yukarı/aşağı düğmelerini göster</string>
+    <string name="show_track_icons">Parça simgelerini göster</string>
+    <string name="shuffle">Karıştır</string>
+    <string name="shuffle_disable">Karıştırma</string>
+    <string name="sort_by">Sırala</string>
+    <string name="speed">Hız</string>
+    <string name="stop">Durdur</string>
+    <string name="strength">Zorla</string>
+    <string name="string_format">%1$s</string>
+    <string name="subtitle">Alt yazı</string>
+    <string name="subtitle_delay">Altyazı gecikmesi</string>
+    <string name="subtitles">Alt yazılar</string>
+    <string name="text_icon_size">Metin ve simge boyutu</string>
+    <string name="theme">Uygulama teması</string>
+    <string name="theme_black">Siyah</string>
+    <string name="theme_dark">Koyu</string>
+    <string name="theme_day_night">Gündüz/Gece</string>
+    <string name="theme_light">Açık</string>
+    <string name="theme_star_wars">Star Wars</string>
+    <string name="theme_sub">Mevcut tema: %1$s</string>
+    <string name="time">Süre</string>
+    <string name="time_unit">Zaman birimi</string>
+    <string name="time_unit_minute">Dakika</string>
+    <string name="time_unit_percent">Yüzde</string>
+    <string name="time_unit_second">İkinci</string>
+    <string name="time_unit_sub">Mevcut: %1$s</string>
+    <string name="timer">Süre</string>
+    <string name="title">Başlık</string>
+    <string name="tool_bar_size">Araç çubuğu boyutu</string>
+    <string name="track_name">Adı</string>
+    <string name="transaural">Transaural</string>
+    <string name="unselect_all">Tüm seçimi kaldır</string>
+    <string name="update">Güncelleme</string>
+    <string name="update_question">Yeni güncelleme var %1$s \nUygulamayı güncellemek ister misiniz?</string>
+    <string name="use_phone_for_donation">Lütfen bir kahve satın almak için telefonunuzu kullanın.</string>
+    <string name="use_phone_to_grant_perm">Lütfen gerekli izinleri vermek için telefonunuzu kullanın.</string>
+    <string name="username">Kullancı adı</string>
+    <string name="vfs_content">İçerik</string>
+    <string name="vfs_file_system">Dosyalar</string>
+    <string name="vfs_gdrive">Google drive</string>
+    <string name="vfs_sftp">SFTP</string>
+    <string name="vfs_smb">LAN (SMB)</string>
+    <string name="video">Video</string>
+    <string name="video_aa_show_status">Android Auto da durum çubuğunu göster</string>
+    <string name="video_brightness">Video parlaklığı</string>
+    <string name="video_control">Video kontrolü</string>
+    <string name="video_control_seek_delay">Aramada göster</string>
+    <string name="video_control_start_delay">Başlangıçta göster</string>
+    <string name="video_control_touch_delay">Dokununca göster</string>
+    <string name="video_scaling">Video ölçekleme</string>
+    <string name="video_scaling_16">16x9</string>
+    <string name="video_scaling_4">4x3</string>
+    <string name="video_scaling_best">En uygun</string>
+    <string name="video_scaling_fill">Ekranı doldur</string>
+    <string name="video_scaling_orig">Orjinal boyut</string>
+    <string name="video_settings">Video ayarları</string>
+    <string name="view">Görünüm</string>
+    <string name="virtualizer">Sanallaştırıcı</string>
+    <string name="voice_control">Sesli kontrol</string>
+    <string name="voice_control_fb">Kayan düğme</string>
+    <string name="voice_control_menu">"'Menü' veya 'M' butonu"</string>
+    <string name="voice_control_next">"'Skip to next' media button"</string>
+    <string name="voice_control_prev">"'Skip to previous' media button"</string>
+    <string name="voice_control_sub_double">Çift tıklamayla ses kontrolünü etkinleştirin</string>
+    <string name="voice_control_sub_long">Uzun dokununca ses kontrolünü etkinleştirin</string>
+    <string name="voice_control_subst">Kelime değiştirme</string>
+    <string name="voice_control_subst_hint">on: play\noff: pause\nmerde: find in browser nearest bar</string>
+    <string name="voice_control_subst_sub">Bir kelimeyi başka bir kelime veya kelime öbeği ile değiştirin</string>
+    <string name="voice_search">Sesli arama</string>
+    <string name="vol_boost">Ses artırma</string>
+    <string name="watched_threshold">İzlenme</string>
+    <string name="watched_threshold_sub">Bu yüzde sayısından daha fazla izlendiyse video izlendi olarak işaretlenir</string>
+	<string name="about_html"><![CDATA[<H1 align="center">Fermata Media Player</H1>
         <p>Fermata Media Player is a free, open source audio and video player with a simple and
         intuitive interface.</p>
         <p><b>Author:</b> Andrey Pavlenko</p>
         <p><b>Version:</b> %1$s (%2$d)</p>
         <p><b>Home page:</b> <a href="%3$s">%3$s</a></p>
         ]]></string>
-
-    <string name="err_failed_to_play">Failed to play %s</string>
-    <string name="err_failed_to_play_cause">Failed to play %1$s: %2$s</string>
-    <string name="err_unsupported_source_type">Unsupported source type: %s</string>
-    <string name="err_playlist_exists">Playlist already exists: %1$s</string>
-    <string name="err_invalid_playlist_name">Invalid playlist name: %1$s</string>
-    <string name="err_failed_add_folder">Failed to add folder: %1$s</string>
-    <string name="err_failed_open_url">Failed to open URL: %1$s</string>
-    <string name="err_failed_install_module">Failed to install module: %1$s</string>
-    <string name="err_failed_to_download">Failed to download %1$s</string>
-    <string name="err_no_audio_record_perm">Audio recording permission is not granted</string>
 </resources>
