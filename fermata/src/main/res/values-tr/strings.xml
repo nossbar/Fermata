@@ -24,7 +24,7 @@
     <string name="by_default">Varsayılan</string>
     <string name="cancel">İptal</string>
     <string name="change_brightness">Video oynatılırken parlaklığı değiştirin</string>
-    <string name="change_brightness_sub">Parlaklık iki parmakla kaydırma ile değiştirilebilir</string>
+    <string name="change_brightness_sub">Parlaklık iki parmak kaydırma ile değiştirilebilir</string>
     <string name="check_updates">Başlangıçta güncelleme kontrol et</string>
     <string name="clock_pos">Saat konumu</string>
     <string name="clock_pos_center">Orta</string>
@@ -38,7 +38,7 @@
     <string name="date">Tarih</string>
     <string name="delete">Sil</string>
     <string name="delete_file_failed">%1$s dosyası silinemedi</string>
-    <string name="delete_file_question">Dosyayı silinsin mi?</string>
+    <string name="delete_file_question">Dosya silinsin mi?</string>
     <string name="delete_file_title">Dosya sil</string>
     <string name="descending">Azalan</string>
     <string name="display_subtitles">Altyazıları görüntüle</string>
@@ -67,7 +67,7 @@
     <string name="eq_hz">%1$s Hz</string>
     <string name="eq_jazz">Caz</string>
     <string name="eq_khz">%1$s kHz</string>
-    <string name="eq_manual">Elle</string>
+    <string name="eq_manual">Özel</string>
     <string name="eq_normal">Normal</string>
     <string name="eq_pop">Pop</string>
     <string name="eq_rock">Rock</string>
@@ -86,7 +86,7 @@
     <string name="export_prefs">Tercihleri dışa dosyaya aktar</string>
     <string name="export_prefs_failed">Tercihler dışa aktarılamadı: %1$s</string>
     <string name="export_prefs_ok">Tercihler dosyaya kaydedildi %1$s.</string>
-    <string name="export_prefs_sub">Ayarları, klasörleri, çalma listelerini vb. dışa dosyaya aktarın</string>
+    <string name="export_prefs_sub">Ayarları, klasörleri, oynatma listelerini vb. dışa dosyaya aktarın</string>
     <string name="fast_forward">İleri sar</string>
     <string name="favorites">Favoriler</string>
     <string name="favorites_add">Favorilere ekle</string>
