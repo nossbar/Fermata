@@ -229,7 +229,7 @@
     <string name="use_phone_for_donation">Lütfen bir kahve satın almak için telefonunuzu kullanın.</string>
     <string name="use_phone_to_grant_perm">Lütfen gerekli izinleri vermek için telefonunuzu kullanın.</string>
     <string name="username">Kullancı adı</string>
-    <string name="vfs_content">İçerik</string>
+    <string name="vfs_content">Klasör</string>
     <string name="vfs_file_system">Dosyalar</string>
     <string name="vfs_gdrive">Google drive</string>
     <string name="vfs_sftp">SFTP</string>
